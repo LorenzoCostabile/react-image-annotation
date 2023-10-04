@@ -21,6 +21,7 @@ const Container = styled.div`
 const Img = styled.img`
   display: block;
   width: 100%;
+  filter: brightness(0.7) grayscale(1) contrast(1.2);
 `
 
 const Items = styled.div`

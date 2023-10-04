@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Container = styled.div`
-  border: solid 3px white;
+  border: solid 3px rgb(57, 255, 20);
   border-radius: 50%;
   box-sizing: border-box;
   box-shadow:
